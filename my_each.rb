@@ -6,6 +6,6 @@ def my_each(array)
  array 
 end
 
-my_each()
+my_each(array)
    array.each do |i|
  end
